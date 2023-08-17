@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>Hi, I'm Daryl! <br/><a href="https://github.com/joshmadakor1"> Cloud Administrator, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<!--
-**darylmokolo737/darylmokolo737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber security Projects:</h2>
 
-Here are some ideas to get you started:
+  
+  - <b>PowerShell</b>
+  
+  - [Active Directory Bulk User Creation](https://github.com/LABURL)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Clouds projects</h2>
+
+  - [Active Directory on GCP](https://github.com/LABURL)
+
+
+<h2> Badges & certifications</h2>
+
+  -   
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+-  https://www.linkedin.com/in/daryl-mokolo-014b1818a/
+
+
+
