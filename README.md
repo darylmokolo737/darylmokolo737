@@ -4,6 +4,10 @@
 
   
   - [<b>Brute Force-Attack Report](https://github.com/darylmokolo737/Brute-Force-Attack_report)
+    
+  - [<b>SQL-Injection-Remediation](https://github.com/darylmokolo737/SQL-Injection-Remediation/tree/main)
+
+  - [<b>Splunk engineering & Logs analysis]
   
   - [Active Directory Bulk User Creation](https://github.com/LABURL)
   
