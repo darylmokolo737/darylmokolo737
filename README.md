@@ -7,7 +7,7 @@
     
   - [<b>SQL-Injection-Remediation](https://github.com/darylmokolo737/SQL-Injection-Remediation/tree/main)
 
-  - [<b>Splunk engineering & Logs analysis]
+  - [<b>Splunk engineering & Logs analysis](https://github.com/darylmokolo737/Splunk-engineering-Logs-analysis)
   
   - [Active Directory Bulk User Creation](https://github.com/LABURL)
   
