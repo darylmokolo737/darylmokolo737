@@ -11,6 +11,9 @@
   
   - [Active Directory Bulk User Creation](https://github.com/LABURL)
   
+<h2>👨‍💻 System administration:</h2>
+
+- [<b>AWS System weekly administration and hardening](https://darylmokolo737/Ops: SEC444 Class scripts (github.com)
 
 <h2> Clouds projects</h2>
 
